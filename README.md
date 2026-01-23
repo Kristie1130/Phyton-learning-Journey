@@ -38,4 +38,23 @@ is_student = True
 I also learned how to convert one data type to another:
 
 
+Day 4 learning python 
+
+Still on phyton data types 
+
+LIST DATA TYPE IN PHYTON 
+
+State=["Lagos","Enugu","Rivers","Ogun")
+print(State)= Lagos,Enugu,Rivers,Ogun
+
+Student_age=('22','21','18','29')
+print(Student_age)
+
+'22','21','18','29'
+
+Strings are continuous character held in quotation marks.
+e.g "Lagos"
+Country="Nigeria"
+print(country)
+
 
