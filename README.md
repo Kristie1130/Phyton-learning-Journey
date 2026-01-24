@@ -16,7 +16,7 @@ print('my name is christiana')
 
 
 
-Day 4 of My Python Learning Journey
+Day 5 of My Python Learning Journey
 Topic: Data Types & Type Conversion
 
 Today I learned about the basic data types in Python and how Python understands different kinds of values.
@@ -57,4 +57,13 @@ e.g "Lagos"
 Country="Nigeria"
 print(country)
 
+
+Day 6 of learning python 
+
+In today's lesson I learnt lines splitting and splitness.
+
+for a line of code to be divided into 2 lines or more after running it then you need to use this (\n) .
+ 
+Example: I am Christiana a 21 years old girl in Lagos Nigeria \nI love for.
+After printing this code the line will be 2 lines since it was splitted into 2
 
