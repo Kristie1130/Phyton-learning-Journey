@@ -67,3 +67,28 @@ for a line of code to be divided into 2 lines or more after running it then you 
 Example: I am Christiana a 21 years old girl in Lagos Nigeria \nI love for.
 After printing this code the line will be 2 lines since it was splitted into 2
 
+
+DAY 7 PYTHON LEARNING JOURNEY 
+
+
+Today marks Day 7 of my Python learning journey, and I focused on bringing together what I’ve learned so far through practice and small exercises.
+
+📌 What I Learned Today
+Reviewed variables and data types (int, float, string, boolean)
+
+Practiced user input using input()
+
+Worked with type conversion (int(), float(), str())
+
+Practiced basic arithmetic operations
+
+Improved understanding of writing clean and readable code
+
+What I Practiced
+Writing simple programs that collect user input
+
+Performing calculations based on user input
+
+Printing clear outputs using print()
+
+Fixing common beginner errors (syntax and type errors)
