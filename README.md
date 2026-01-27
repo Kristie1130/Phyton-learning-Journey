@@ -92,3 +92,39 @@ Performing calculations based on user input
 Printing clear outputs using print()
 
 Fixing common beginner errors (syntax and type errors)
+
+ Python Learning Journey – Day 8
+Topic: Control Flow (If, Elif, Else) & Logical Thinking
+
+What I learned today
+Today, I focused on decision making in Python using if, elif, and else statements.
+I learned how Python executes different blocks of code based on conditions and how this helps programs make choices.
+
+Key concepts covered
+if, elif, and else statements
+
+Comparison operators (==, !=, >, <, >=, <=)
+
+Logical operators (and, or, not)
+
+Indentation and code blocks
+
+Writing conditions that return True or False
+
+Practice examples
+Checking if a number is positive, negative, or zero
+
+Determining if a user is eligible based on age
+
+Simple grading system using conditions
+
+Challenges
+Understanding how multiple conditions work together was challenging at first, but practicing helped me see how Python evaluates conditions step by step.
+
+What I improved
+My logical thinking
+
+Reading and understanding conditional statements
+
+Writing cleaner and more readable code
+
