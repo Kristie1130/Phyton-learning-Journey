@@ -1,4 +1,5 @@
-# Phyton-learning-Journey
+Day 9 – Python Learning Journey 🐍
+Today, I continued building my Python skills by practicing what I’ve learned so far. I focused on strengthening my understanding of functions and loops, writing simple programs to solve real problems. I practiced using for and while loops, defined my own functions, and learned how to reuse code efficiently. I also worked on debugging errors, which helped me understand how Python executes code step by step. Each day, Python feels less intimidating and more logical. I’m gaining confidence and consistency, and this motivates me to keep learning and improving my programming skills.# Phyton-learning-Journey
 # Day one: python Basics
 # Topic: print Statement 
 
