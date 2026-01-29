@@ -129,3 +129,24 @@ Reading and understanding conditional statements
 
 Writing cleaner and more readable code
 
+
+MY PYTHON LEARNING JOURNEY 
+
+DAY 10
+
+greetings = 'Hello World!'
+print(greetings)
+account_balance=5000
+withdrawal_amount = int(input("Enter the amount you wish to withdraw: "))
+if withdrawal_amount<=account_balance:
+    print("Withdrawal Successful!\nThank you for banking with us")
+    
+else:
+    print("Your account balance is low!\n Please Fund Your Account! Thank You")
+     
+if greetings == "Hello World!":
+    print("great")
+else:
+    print("You have not greeted")
+
+I JUST DID A RANDOM WEBSITE FOR A BANK 
