@@ -149,4 +149,13 @@ if greetings == "Hello World!":
 else:
     print("You have not greeted")
 
-I JUST DID A RANDOM WEBSITE FOR A BANK 
+I JUST DID A RANDOM WEBSITE FOR A BANK
+
+
+Day 11 – Python Learning Journey 
+Today I learned:
+How to use functions to organize code
+The difference between parameters and arguments
+Writing reusable functions with return
+Basic function documentation using comments
+Still practicing and building consistency.  
